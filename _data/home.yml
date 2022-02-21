@@ -7,7 +7,7 @@ navbar_entries:
 
 project_entries:
   - title: RoSE Autonomous Rover
-    url: overview-post
+    url: RoSe-Autonomous-Rover
     desc: Creating an autonomous navigation stack for mars rover.
     highlights: WIP
 
