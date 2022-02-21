@@ -7,31 +7,31 @@ navbar_entries:
 
 project_entries:
   - title: RoSE Autonomous Rover
-    url: RoSe-Autonomous-Rover
+    url: rose
     desc: Creating an autonomous navigation stack for mars rover.
     highlights: WIP
 
   - title: Gaussian Processes Active Learning
-    url: Utilizing machine learning to improve planetary exploration efficacy.
-    desc: Projects are shown in card layout
+    url: GPAL
+    desc: Utilizing machine learning to improve planetary exploration efficacy.
 
   - title: Alakai Trail Directory
-    url: overview-post
+    url: alakai
     desc: Hackathon web app to protect Hawaiis trails.
 
   - title: Dynamic Kernel Selection Algorithm
-    url: overview-post
+    url: dynamickernel
     desc: Improve efficacy of Gaussian Processes using parsimonious kernels.
     highlight: WIP
 
   - title: S.H.A.W.N.
-    url: overview-post
+    url: shawn
     desc: Python based voice-assistant.
     highlight: WIP
 
   - title: IoTrack
-    url: Customizable database for Iolani XC and Track team.
-    desc: It also has a scalable vertical list (in case you need it)
+    url: iotrack
+    desc: Customizable database for Iolani XC and Track team.
 
 footer_entries:
   - title: twitter
