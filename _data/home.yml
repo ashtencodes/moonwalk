@@ -11,47 +11,30 @@ navbar_entries:
 project_entries:
   - title: RoSE Autonomous Rover
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Creating an autonomous navigation stack for mars rover.
+    highlights: WIP
 
-  - title: Project 2
-    url: overview-post
+  - title: Gaussian Processes Active Learning
+    url: Utilizing machine learning to improve planetary exploration efficacy.
     desc: Projects are shown in card layout
 
-  - title: Project 3
+  - title: Alakai Trail Directory
     url: overview-post
     desc: You can control visibility from _config.yml file
 
-  - title: Project 4
+  - title: Dynamic Kernel Selection Algorithm
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
 
-  - title: Project 5
+  - title: S.H.A.W.N.
     url: overview-post
     desc: Moonwalk also has horizontal list (used in header and footer)
     highlight: WIP
 
-  - title: Project 6
+  - title: IoTrack
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
-
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
 
 footer_entries:
   - title: abhinav's homepage
