@@ -12,7 +12,7 @@ project_entries:
     highlights: WIP
 
   - title: Gaussian Processes Active Learning
-    url: GPAL
+    url: gpal
     desc: Utilizing machine learning to improve planetary exploration efficacy.
 
   - title: Alakai Trail Directory
