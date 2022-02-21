@@ -12,20 +12,20 @@ project_entries:
     highlight: WIP
 
   - title: Gaussian Processes Active Learning
-    url: gpal
+    url: gaussian-process-active-learning
     desc: Utilizing machine learning to improve planetary exploration efficacy.
 
   - title: Alakai Trail Directory
-    url: alakai
+    url: alakai-trail-directory
     desc: Hackathon web app to protect Hawaiis trails.
 
   - title: Dynamic Kernel Selection Algorithm
-    url: dynamickernel
+    url: dynamic-kernel-selection-algorithm
     desc: Improve efficacy of Gaussian Processes using parsimonious kernels.
     highlight: WIP
 
   - title: S.H.A.W.N.
-    url: shawn
+    url: shawn-voice-assistant
     desc: Python based voice-assistant.
     highlight: WIP
 
