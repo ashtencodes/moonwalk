@@ -2,14 +2,14 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
+  - title: projects
     url: blog
 
 project_entries:
   - title: RoSE Autonomous Rover
     url: rose-autonomous-rover
     desc: Creating an autonomous navigation stack for mars rover.
-    highlights: WIP
+    highlight: WIP
 
   - title: Gaussian Processes Active Learning
     url: gpal
