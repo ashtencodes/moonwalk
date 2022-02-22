@@ -3,13 +3,13 @@ layout: post
 author: Ashten Akemoto
 ---
 
-A web application that allows state officials and the general public to monitor the foot-traffic density on any of Hawaii's hiking trails. This was our team's entry to the [Hawaii Annual Coding Challenge](https://hacc.hawaii.gov) (HACC) 2021, which got us invited to the finals day present to judges and an audience. Also, check out our [Devpost](https://devpost.com/software/rose-luiwyo).
+A web application that allows state officials and the general public to monitor the foot-traffic density on any of Hawaii's hiking trails. This was our team's entry to the [Hawaii Annual Coding Challenge](https://hacc.hawaii.gov) (HACC) 2021. Selected as finalists, our team presented to Hawaii government officials and judges from companies like Microsoft and Amazon. Also, check out our [Devpost](https://devpost.com/software/rose-luiwyo).
 
 
 <img src="https://user-images.githubusercontent.com/74911365/154952499-8de579a1-1ae2-45ea-b541-61a832515775.png" width="700">
 
 <div style="text-align:center;">
-  <iframe width="560" height="315" src="https://youtube.com/embed/7zXx1ivkXIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;   clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="700" src="https://youtube.com/embed/7zXx1ivkXIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;   clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 # Overview
@@ -58,5 +58,7 @@ Alakai has a responsive and mobile friendly design.
 
 
 # One-Minute Demo
-<iframe width="560" height="315" src="https://youtube.com/embed/sjDJmY4EEVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align:center;">
+  <iframe width="560" height="315" src="https://youtube.com/embed/sjDJmY4EEVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>  
 
