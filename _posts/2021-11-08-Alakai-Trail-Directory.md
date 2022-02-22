@@ -9,7 +9,7 @@ A web application that allows state officials and the general public to monitor 
 |--|--|
 |<img src="https://user-images.githubusercontent.com/74911365/154952499-8de579a1-1ae2-45ea-b541-61a832515775.png" width="700">|<img src="https://user-images.githubusercontent.com/74911365/155088337-48d6e84c-b438-417f-b28c-85c78955bca5.jpg" width="700">|
 
-![](https://user-images.githubusercontent.com/74911365/155099216-c10141d7-d22f-43de-8fc4-139cb811a7c3.mp4)
+<iframe width="560" height="315" src="https://youtu.be/7zXx1ivkXIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Overview
 Trails are overburdened by congestion, and hikers are often unaware of proper trail etiquette and information. This poses a risk to the wellbeing of trail ecosystems, and a safety risk to hikers themselves. Alaka’i offers a variety of features to provide hikers with reliable and accurate information, along with the ability to reverse trail damage through donations.
@@ -57,5 +57,5 @@ Alakai has a responsive and mobile friendly design.
 
 
 # One-Minute Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7zXx1ivkXIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/sjDJmY4EEVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
