@@ -8,9 +8,9 @@ A web application that allows state officials and the general public to monitor 
 |--|--|
 |<img src="https://user-images.githubusercontent.com/74911365/154952499-8de579a1-1ae2-45ea-b541-61a832515775.png" width="700">|<img src="https://user-images.githubusercontent.com/74911365/155088337-48d6e84c-b438-417f-b28c-85c78955bca5.jpg" width="700">|
 
-
-https://user-images.githubusercontent.com/74911365/155099216-c10141d7-d22f-43de-8fc4-139cb811a7c3.mp4
-
+<video width="640" height="400" controls preload> 
+    <source src="https://user-images.githubusercontent.com/74911365/155099216-c10141d7-d22f-43de-8fc4-139cb811a7c3.mp4"></source> 
+</video>
 
 # Overview
 Trails are overburdened by congestion, and hikers are often unaware of proper trail etiquette and information. This poses a risk to the wellbeing of trail ecosystems, and a safety risk to hikers themselves. Alaka’i offers a variety of features to provide hikers with reliable and accurate information, along with the ability to reverse trail damage through donations.
