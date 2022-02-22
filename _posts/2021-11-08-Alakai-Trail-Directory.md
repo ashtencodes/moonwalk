@@ -5,20 +5,8 @@ author: Ashten Akemoto
 
 A web application that allows state officials and the general public to monitor the foot-traffic density on any of Hawaii's hiking trails. This was our team's entry to the [Hawaii Annual Coding Challenge](https://hacc.hawaii.gov) (HACC) 2021, which got us invited to the finals day present to judges and an audience. Also, check out our [Devpost](https://devpost.com/software/rose-luiwyo).
 
-|  |  |
-|--|--|
-|<img src="https://user-images.githubusercontent.com/74911365/154952499-8de579a1-1ae2-45ea-b541-61a832515775.png" width="350">|<img src="https://user-images.githubusercontent.com/74911365/155088337-48d6e84c-b438-417f-b28c-85c78955bca5.jpg" width="350">|
 
-<table border=1 cellpadding=0 width="100%">
-<tr>
-<td align=center bgcolor=#d5e4de>
-      <img src=https://user-images.githubusercontent.com/74911365/154952499-8de579a1-1ae2-45ea-b541-61a832515775.png width="100%">
-</td>
-<td align=center bgcolor=#d5e4de>
-      <img src=https://user-images.githubusercontent.com/74911365/155088337-48d6e84c-b438-417f-b28c-85c78955bca5.jpg width="50%">
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74911365/154952499-8de579a1-1ae2-45ea-b541-61a832515775.png" width="700">
 
 <div style="text-align:center;">
   <iframe width="560" height="315" src="https://youtube.com/embed/7zXx1ivkXIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;   clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
