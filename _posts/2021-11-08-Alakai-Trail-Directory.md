@@ -9,7 +9,7 @@ A web application that allows state officials and the general public to monitor 
 <img src="https://user-images.githubusercontent.com/74911365/154952499-8de579a1-1ae2-45ea-b541-61a832515775.png" width="700">
 
 <div style="text-align:center;">
-  <iframe width="700" src="https://youtube.com/embed/7zXx1ivkXIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;   clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="700" height="394" src="https://youtube.com/embed/7zXx1ivkXIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;   clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 # Overview
@@ -59,6 +59,6 @@ Alakai has a responsive and mobile friendly design.
 
 # One-Minute Demo
 <div style="text-align:center;">
-  <iframe width="560" height="315" src="https://youtube.com/embed/sjDJmY4EEVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="700" height="394" src="https://youtube.com/embed/sjDJmY4EEVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>  
 
