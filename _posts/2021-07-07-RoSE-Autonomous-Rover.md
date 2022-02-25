@@ -22,12 +22,12 @@ I have tested and integrated hardware components necessary for the navigation fo
 <br><br>
 <img src="https://raw.githubusercontent.com/ashtencodes/ashtencodes.github.io/master/images/d435i.gif" width="450">
 <div align="center">
-  Outdoor testing clip of Intel d435i Stereo Camera.
+  <i>Outdoor testing clip of Intel d435i Stereo Camera.</i>
 </div>
 <br><br>
 <img src="https://user-images.githubusercontent.com/82536552/155690813-c2f6dc08-f108-4e45-9117-eb0092d37c4b.png" width="450">
 <div align="center">
-  Validation of depth sensing field of view functional requirement.
+  <i>Validation of depth sensing field of view functional requirement.</i>
 </div>
 
 Utilizing an open-source SLAM (Simultaneous Localization and Mapping) program called ORB-SLAM 3, the rover is able to localize and map its environment!
@@ -37,7 +37,7 @@ In the project, I led the development of the **motion planning and steering of t
 <br> <br>
 <img src="https://raw.githubusercontent.com/ashtencodes/ashtencodes.github.io/master/images/ackermann.gif" width="450">
 <div align="center">
-  Teleoperation of simulated ackermann vehicle using ros_controller in Gazebo.
+  <i>Teleoperation of simulated ackermann vehicle using ros_controller in Gazebo.</i>
 </div>
 
 Simulated obstacle avoidance gif here.
@@ -53,7 +53,7 @@ The ARUCO tag detection module detects AR tags from the video feed of our stereo
 <br><br>
 <img src="https://user-images.githubusercontent.com/82536552/155697730-1409f81c-2956-49a0-adca-385c73665844.png" width="900">
 <div align="center">
-  Demonstration of ARUCO tag detection module at ~10 meters distance
+  <i>Demonstration of ARUCO tag detection module at ~10 meters distance.</i>
 </div>
 
 
