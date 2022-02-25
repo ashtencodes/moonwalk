@@ -17,7 +17,7 @@ I have tested and integrated hardware components necessary for the navigation fo
 <br><br>
 <img src="https://user-images.githubusercontent.com/82536552/155689625-65d42043-1c4a-4324-8617-19126de58075.png" width="900">
 <br><br>
-<img src="https://user-images.githubusercontent.com/82536552/155690435-2b1643d8-5096-4375-92eb-b0c2b7d26d9a.png" width="900">
+<img src="https://raw.githubusercontent.com/ashtencodes/ashtencodes.github.io/master/images/d435i.gif" width="450">
 <br><br>
 <img src="https://user-images.githubusercontent.com/82536552/155690813-c2f6dc08-f108-4e45-9117-eb0092d37c4b.png" width="450">
 
