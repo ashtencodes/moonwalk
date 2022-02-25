@@ -16,19 +16,16 @@ Summarized briefly, the autonomous travel mission requires the rover to navigate
 I have tested and integrated hardware components necessary for the navigation for the rover, such as GPS for localization, IMU (Inertial Measurement Unit) for orientation and acceleration data, and stereo cameras used for depth perception. Working with hardware wrappers and visualization tools, I integrated our hardware sensors into the **Robotic Operating System** (ROS) environment for easy integration with other modules. 
 <br><br>
 <img src="https://user-images.githubusercontent.com/82536552/155689625-65d42043-1c4a-4324-8617-19126de58075.png" width="900">
-<br> <br>
 <div align="center">
   Testing and validation of GPS precision functional requirement.
 </div>
 <br><br>
 <img src="https://raw.githubusercontent.com/ashtencodes/ashtencodes.github.io/master/images/d435i.gif" width="450">
-<br> <br>
 <div align="center">
   Outdoor testing clip of Intel d435i Stereo Camera.
 </div>
 <br><br>
 <img src="https://user-images.githubusercontent.com/82536552/155690813-c2f6dc08-f108-4e45-9117-eb0092d37c4b.png" width="450">
-<br> <br>
 <div align="center">
   Validation of depth sensing field of view functional requirement.
 </div>
@@ -39,7 +36,6 @@ Utilizing an open-source SLAM (Simultaneous Localization and Mapping) program ca
 In the project, I led the development of the motion planning and steering of the rover. Motion planning entails generating the best path to avoid all obstacles and untraversable terrain, and is made possible through the move_base package. Steering is the process of creating and sending motion commands to fulfill the desired path of the rover. I have integrated both ackermann steering and skid steering into a simulated autonomous rover built in the ROS simulation program, Gazebo! From detecting obstacles to generating and fulfilling a desired path, the simulation acts as a testbed and verifies our software components before integration into the competition chassis.
 <br> <br>
 <img src="https://raw.githubusercontent.com/ashtencodes/ashtencodes.github.io/master/images/ackermann.gif" width="450">
-<br> <br>
 <div align="center">
   Teleoperation of simulated ackermann vehicle using ros_controller in Gazebo.
 </div>
@@ -58,6 +54,9 @@ GPS Navigation Photo here.
 The ARUCO tag detection module detects AR tags from the video feed of our stereo camera. With the AR tags having a preset size, the module is able to calculate the position and orientation of the tag with respect to the rover and is able to a generate a similar vector to be sent to the navigation stack. This allows the rover to follow tags around!
 <br><br>
 <img src="https://user-images.githubusercontent.com/82536552/155697730-1409f81c-2956-49a0-adca-385c73665844.png" width="900">
+<div align="center">
+  Demonstration of ARUCO tag detection module at ~10 meters distance
+</div>
 
 
 # Challenges And Accomplishments
