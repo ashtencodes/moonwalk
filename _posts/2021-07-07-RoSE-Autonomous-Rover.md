@@ -13,10 +13,13 @@ Summarized briefly, the autonomous travel mission requires the rover to navigate
 <img src="https://user-images.githubusercontent.com/82536552/155688438-9665ee59-25b7-4984-b313-53130ccb8c56.png" width="900">
 
 # Perception, Sensors, and SLAM
-Sensor hardware stuff here.
+I have tested and integrated hardware components necessary for the navigation for the rover, such as GPS for localization, IMU (Inertial Measurement Unit) for orientation and acceleration data, and stereo cameras used for depth perception. Working with hardware wrappers and visualization tools, I integrated our hardware sensors into the **Robotic Operating System** (ROS) environment for easy integration with other modules. 
 <br><br>
-
-<img src="https://user-images.githubusercontent.com/74911365/155108663-3d514da6-0dd4-4b95-867d-ddd21a8ee8e3.png" width="700">
+<img src="https://user-images.githubusercontent.com/82536552/155689625-65d42043-1c4a-4324-8617-19126de58075.png" width="900">
+<br><br>
+<img src="https://user-images.githubusercontent.com/82536552/155690435-2b1643d8-5096-4375-92eb-b0c2b7d26d9a.png" width="900">
+<br><br>
+<img src="https://user-images.githubusercontent.com/82536552/155690813-c2f6dc08-f108-4e45-9117-eb0092d37c4b.png" width="450">
 
 # Motion Planning and Steering
 Motion planning and perception here.
