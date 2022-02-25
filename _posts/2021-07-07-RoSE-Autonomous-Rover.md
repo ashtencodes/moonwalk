@@ -46,8 +46,6 @@ RTABMAP gif here.
 
 # GPS Waypoint Navigation and ARUCO tag detection
 The GPS waypoint navigation module is another one of my contributions. The waypoint module acts as an interface to send GPS coordinate goals to the navigation stack. The module takes in a goal latitude and longitude value and reads the current latitude and longitude to compute a vector from the rover's coordinate to the goal coordinate. In the competition, this node is necessary to send the goal GPS points to our autonomous navigation stack to be fulfilled by move_base!
-<br><br>
-<img src="https://raw.githubusercontent.com/ashtencodes/ashtencodes.github.io/master/images/ackermann.gif" width="900">
 
 GPS Navigation Photo here. 
 
