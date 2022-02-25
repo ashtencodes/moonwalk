@@ -17,7 +17,7 @@ I have tested and integrated hardware components necessary for the navigation fo
 <br><br>
 <img src="https://user-images.githubusercontent.com/82536552/155689625-65d42043-1c4a-4324-8617-19126de58075.png" width="900">
 <div align="center">
-  Testing and validation of GPS precision functional requirement.
+  <i>Testing and validation of GPS precision functional requirement.</i>
 </div>
 <br><br>
 <img src="https://raw.githubusercontent.com/ashtencodes/ashtencodes.github.io/master/images/d435i.gif" width="450">
