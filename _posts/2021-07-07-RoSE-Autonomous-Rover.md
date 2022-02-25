@@ -16,29 +16,49 @@ Summarized briefly, the autonomous travel mission requires the rover to navigate
 I have tested and integrated hardware components necessary for the navigation for the rover, such as GPS for localization, IMU (Inertial Measurement Unit) for orientation and acceleration data, and stereo cameras used for depth perception. Working with hardware wrappers and visualization tools, I integrated our hardware sensors into the **Robotic Operating System** (ROS) environment for easy integration with other modules. 
 <br><br>
 <img src="https://user-images.githubusercontent.com/82536552/155689625-65d42043-1c4a-4324-8617-19126de58075.png" width="900">
-Testing and validation of GPS precision functional requirement.
+<br> <br>
+<div align="center">
+  Testing and validation of GPS precision functional requirement.
+</div>
 <br><br>
 <img src="https://raw.githubusercontent.com/ashtencodes/ashtencodes.github.io/master/images/d435i.gif" width="450">
-Outdoor testing clip of Intel d435i Stereo Camera.
+<br> <br>
+<div align="center">
+  Outdoor testing clip of Intel d435i Stereo Camera.
+</div>
 <br><br>
 <img src="https://user-images.githubusercontent.com/82536552/155690813-c2f6dc08-f108-4e45-9117-eb0092d37c4b.png" width="450">
-Validation of depth sensing field of view functional requirement.
+<br> <br>
+<div align="center">
+  Validation of depth sensing field of view functional requirement.
+</div>
 
 Utilizing an open-source SLAM (Simultaneous Localization and Mapping) program called ORB-SLAM 3, the rover is able to localize and map its environment!
 
 # Motion Planning and Steering
 In the project, I led the development of the motion planning and steering of the rover. Motion planning entails generating the best path to avoid all obstacles and untraversable terrain, and is made possible through the move_base package. Steering is the process of creating and sending motion commands to fulfill the desired path of the rover. I have integrated both ackermann steering and skid steering into a simulated autonomous rover built in the ROS simulation program, Gazebo! From detecting obstacles to generating and fulfilling a desired path, the simulation acts as a testbed and verifies our software components before integration into the competition chassis.
-
 <br> <br>
 <img src="https://raw.githubusercontent.com/ashtencodes/ashtencodes.github.io/master/images/ackermann.gif" width="450">
+<br> <br>
+<div align="center">
+  Teleoperation of simulated ackermann vehicle using ros_controller in Gazebo.
+</div>
+
+Simulated obstacle avoidance gif here.
+
+RTABMAP gif here.
 
 # GPS Waypoint Navigation and ARUCO tag detection
 The GPS waypoint navigation module is another one of my contributions. The waypoint module acts as an interface to send GPS coordinate goals to the navigation stack. The module takes in a goal latitude and longitude value and reads the current latitude and longitude to compute a vector from the rover's coordinate to the goal coordinate. In the competition, this node is necessary to send the goal GPS points to our autonomous navigation stack to be fulfilled by move_base!
-
 <br><br>
-![image](https://user-images.githubusercontent.com/74911365/155114147-ccfbe904-3fef-4b0c-9464-e95d38e2f24d.png)
+<img src="https://raw.githubusercontent.com/ashtencodes/ashtencodes.github.io/master/images/ackermann.gif" width="900">
+
+GPS Navigation Photo here. 
 
 The ARUCO tag detection module detects AR tags from the video feed of our stereo camera. With the AR tags having a preset size, the module is able to calculate the position and orientation of the tag with respect to the rover and is able to a generate a similar vector to be sent to the navigation stack. This allows the rover to follow tags around!
+<br><br>
+<img src="https://user-images.githubusercontent.com/82536552/155697730-1409f81c-2956-49a0-adca-385c73665844.png" width="900">
+
 
 # Challenges And Accomplishments
-The biggest challenge our team encountered was the management of large datasets across multiple local development platforms. Passing the necessary data to every corner of the project was difficult and clunky at first, but through a large-scale overhaul of our database and restructuring to use AJAX requests, we were able to clean up our code and easily access our database information. Another large accomplishment for the team was the sudden delve into web development. A majority of our team has little to no prior experience with web development, yet we were able to use this competition as an opportunity to jump in head first into new territory, which significantly accelerated our growth as programmers. We were able to learn more about web design, proper coding practices, and maximizing the use of version control systems.
+Working on the autonomous rover team has introduced me to the world of robotics and software engineering. Difficult problems in autonomous robotics such as localization, perception, and navigation have no concrete "best" solutions, and our implementation of various modules and packages is unique to our navigation stack. Yet, in a little more than a semester, our team has been able to develop a pipeline of functionality ranging from hardware components to software algorithms that make autonomous navigation possible. On a software engineering end, I have learned valuable skills ranging from software design decisions, programming best practices, and utilizing version control for issue driven development. From rigorous testing of components to validation of functional requirements, I work in a hands-on and fast-paced engineering project to further my skills in robotics and software engineering.
