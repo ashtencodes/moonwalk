@@ -2,29 +2,10 @@
 layout: post
 author: Ashten Akemoto
 ---
-
-A web application that allows state officials and the general public to monitor the foot-traffic density on any of Hawaii's hiking trails. This was our team's entry to the [Hawaii Annual Coding Challenge](https://hacc.hawaii.gov) (HACC) 2021. Selected as finalists, our team presented to Hawaii government officials and judges from companies like Microsoft and Amazon. Also, check out our [Devpost](https://devpost.com/software/rose-luiwyo).
-
-
-<img src="https://user-images.githubusercontent.com/74911365/154952499-8de579a1-1ae2-45ea-b541-61a832515775.png" width="700">
-
 # Robotic Space Exploration Lab
-Robotic Space Exploration Lab Summary
+The Robotic Space Exploration Lab (RoSE) is an undergraduate and graduate student led research lab at the University of Hawaii studying space exploration and research applications in robotics! Our projects range from studying rover terramechanics to machine learning powered celestial navigation and 
 
-<img src="https://user-images.githubusercontent.com/74911365/154952551-95a0dd5d-8de4-4a0d-9539-fd2e8f1870d5.png" width="700">
-
-# Contents
-- [Trail Catalog](#trail-catalog)
-- [Safety & Etiquette](#safety---etiquette)
-- [Traffic Information](#traffic-information)
-- [Sign Up](#sign-up)
-- [Reservations](#reservations)
-- [Safety Contact](#safety-contact)
-- [Safety Text Messages](#safety-text-messages)
-- [Donations](#donations)
-- [Mobile Friendly](#mobile-friendly)
-- [Challenges And Accomplishments](#challenges-and-accomplishments)
-- [One-Minute Demo](#one-minute-demo)
+As a Software Engineer and Integrator for the Autonomous Mars Rover vertically integrated project (VIP), I design, develop, test, and deploy a navigation stack providing our rover with autonomous navigation capabilities. Many subsystems consisting of over 30 students contribute to a single rover designed to compete at the [University Rover Challenge](https://urc.marssociety.org/home), a international collegiate robotics competition.
 
 # Autonomous Traversal Mission
 Autonomous traversal mission outlined here.
