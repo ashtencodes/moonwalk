@@ -30,6 +30,7 @@ I have tested and integrated hardware components necessary for the navigation fo
   <i>Validation of depth sensing field of view functional requirement.</i>
 </div>
 
+
 Utilizing an open-source SLAM (Simultaneous Localization and Mapping) program called ORB-SLAM 3, the rover is able to localize and map its environment!
 
 # Motion Planning and Steering
