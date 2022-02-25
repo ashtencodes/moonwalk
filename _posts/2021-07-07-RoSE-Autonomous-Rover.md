@@ -3,7 +3,7 @@ layout: post
 author: Ashten Akemoto
 ---
 # Robotic Space Exploration Lab
-The Robotic Space Exploration Lab (RoSE) is an undergraduate and graduate student led research lab at the University of Hawaii studying space exploration and research applications in robotics! Our projects range from studying rover terramechanics to machine learning powered celestial navigation and 
+The Robotic Space Exploration Lab (RoSE) is an undergraduate and graduate student led research lab at the University of Hawaii studying space exploration and research applications in robotics! Our projects range from studying rover terramechanics to machine learning powered celestial navigation and satellite development.
 
 As a Software Engineer and Integrator for the Autonomous Mars Rover vertically integrated project (VIP), I design, develop, test, and deploy a navigation stack providing our rover with autonomous navigation capabilities. Many subsystems consisting of over 30 students contribute to a single rover designed to compete at the [University Rover Challenge](https://urc.marssociety.org/home), a international collegiate robotics competition.
 
