@@ -9,7 +9,6 @@ As a Software Engineer and Integrator for [VIP RoSE](http://www.uhmviprose.com/)
 
 # Autonomous Traversal Mission
 Summarized briefly, the autonomous travel mission requires the rover to navigate across extreme terrain and untraversable obstacles in the desserts of Hanksville Utah, a similar environment to the martian surface. The rover must navigate to predetermined GPS waypoints, search and drive to scattered AR tags, and drive through gates without the intervention of a human operator. As a software engineer in the autonomy team, I integrate the **localization, percpetion, planning, and control** functionalities critical for the mission's success. 
-
 <br><br>
 <img src="https://user-images.githubusercontent.com/82536552/155688438-9665ee59-25b7-4984-b313-53130ccb8c56.png" width="900">
 
