@@ -41,14 +41,22 @@ In the project, I led the development of the **motion planning and steering of t
   <i>Teleoperation of simulated ackermann vehicle using ros_controller in Gazebo.</i>
 </div>
 
-Simulated obstacle avoidance gif here.
+<br> <br>
+<img src="https://raw.githubusercontent.com/ashtencodes/ashtencodes.github.io/master/images/obstacle.gif" width="450">
+<div align="center">
+  <i>Simulated skid-steering rover detecting and avoiding obstacles.</i>
+</div>
 
-RTABMAP gif here.
+<br> <br>
+<img src="https://raw.githubusercontent.com/ashtencodes/ashtencodes.github.io/master/images/terrain.gif" width="450">
+<div align="center">
+  <i>Navigation through recognizition of untraversable terrain.</i>
+</div>
 
 # GPS Waypoint / ARUCO Tag Detection
 The GPS waypoint navigation module is another one of my contributions. The waypoint module acts as an **interface to send GPS coordinate goals to the navigation stack**. The module takes in a goal latitude and longitude value and reads the current latitude and longitude to compute a vector from the rover's coordinate to the goal coordinate. In the competition, this node is necessary to send the goal GPS points to our autonomous navigation stack to be fulfilled by move_base!
 
-GPS Navigation Photo here. 
+<img src="https://user-images.githubusercontent.com/82536552/155824730-8df02370-313e-4e60-9d98-96f666aef670.png" width="650">
 
 The ARUCO tag detection module detects AR tags from the video feed of our stereo camera. With the AR tags having a preset size, the module is able to calculate the position and orientation of the tag with respect to the rover and is able to a generate a similar vector to be sent to the navigation stack. This allows the rover to follow tags around!
 <br><br>
