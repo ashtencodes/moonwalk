@@ -42,13 +42,13 @@ In the project, I led the development of the **motion planning and steering of t
 </div>
 
 <br> <br>
-<img src="https://raw.githubusercontent.com/ashtencodes/ashtencodes.github.io/master/images/obstacles.gif" width="450">
+<img src="https://raw.githubusercontent.com/ashtencodes/ashtencodes.github.io/master/images/obstacles.gif" width="700">
 <div align="center">
   <i>Simulated skid-steering rover detecting and avoiding obstacles.</i>
 </div>
 
 <br> <br>
-<img src="https://raw.githubusercontent.com/ashtencodes/ashtencodes.github.io/master/images/terrain.gif" width="450">
+<img src="https://raw.githubusercontent.com/ashtencodes/ashtencodes.github.io/master/images/terrain.gif" width="700">
 <div align="center">
   <i>Navigation through recognizition of untraversable terrain.</i>
 </div>
