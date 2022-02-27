@@ -32,6 +32,11 @@ I have tested and integrated hardware components necessary for the navigation fo
 
 
 Utilizing an open-source SLAM (Simultaneous Localization and Mapping) program called ORB-SLAM 3, the rover is able to localize and map its environment!
+<br> <br>
+<img src="https://raw.githubusercontent.com/ashtencodes/ashtencodes.github.io/master/images/mapping.gif" width="700">
+<div align="center">
+  <i>SLAM visualization of hallway and staircase using Rtabmap.</i>
+</div>
 
 # Motion Planning and Steering
 In the project, I led the development of the **motion planning and steering of the rover**. **Motion planning** entails generating the best path to avoid all obstacles and untraversable terrain, and is made possible through the move_base package. **Steering** is the process of creating and sending motion commands to fulfill the desired path of the rover. I have integrated both ackermann steering and skid steering into a simulated autonomous rover built in the ROS simulation program, **Gazebo**! From detecting obstacles to generating and fulfilling a desired path, the simulation acts as a testbed and verifies our software components before integration into the competition chassis.
