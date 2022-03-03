@@ -2,8 +2,7 @@
 layout: post
 author: Ashten Akemoto
 ---
-
-# SHAWN Voice Assistant
+# Project Overview
 
 S.H.A.W.N. (Sort-of Helpful Automated Web Network) is a voice assistant I built in Python during Summer 2021. As my first real coding project, I made SHAWN to familiarize myself with Python in a larger-scale codebase. I was able to learn how to use various libraries interfacing with computer hardware and to manage and parse voice data. In one summer, I set up SHAWN to wake up on command, play music, set and read events on my Google Calendar, and more. 
 
