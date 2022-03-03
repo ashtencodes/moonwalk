@@ -10,5 +10,5 @@ S.H.A.W.N. (Sort-of Helpful Automated Web Network) is a voice assistant I built 
 I have more plans for SHAWN including setting up smart home capabilities and Discord integration. Watch more about SHAWN below!
 
 <div style="text-align:center;">
-  <iframe width="700" height="394" src=https://www.youtube.com/embed/T1slwQKglls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;   clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="700" height="394" src="https://youtube.com/embed/T1slwQKglls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;   clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
