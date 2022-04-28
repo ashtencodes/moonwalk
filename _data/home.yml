@@ -6,12 +6,12 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: RoSE Autonomous Rover
+  - title: Autonomous Rover
     url: rose-autonomous-rover
     desc: Creating an autonomous navigation stack for mars rover.
     highlight: WIP
 
-  - title: Gaussian Processes Active Learning
+  - title: Kernel Learning
     url: gaussian-process-active-learning
     desc: Utilizing machine learning to improve planetary exploration efficacy.
     highlight: WIP
