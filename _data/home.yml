@@ -9,7 +9,6 @@ project_entries:
   - title: Autonomous Rover
     url: rose-autonomous-rover
     desc: Autonomous navigation stack for mars rover.
-    highlight: WIP
 
   - title: Kernel Learning
     url: gaussian-process-active-learning
