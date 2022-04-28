@@ -19,10 +19,9 @@ project_entries:
     url: alakai-trail-directory
     desc: Hackathon web app to protect Hawaiis trails.
 
-  - title: Dynamic Kernel Selection Algorithm
-    url: dynamic-kernel-selection-algorithm
-    desc: Improve efficacy of Gaussian Processes using parsimonious kernels.
-    highlight: WIP
+  - title: Animal Farm
+    url: https://www2.hawaii.edu/~aakemoto/ee205/ee205_animal_farm_3/
+    desc: Database project for Object Oriented Programming class.
 
   - title: S.H.A.W.N.
     url: shawn-voice-assistant
