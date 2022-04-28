@@ -8,12 +8,12 @@ navbar_entries:
 project_entries:
   - title: Autonomous Rover
     url: rose-autonomous-rover
-    desc: Creating an autonomous navigation stack for mars rover.
+    desc: Autonomous navigation stack for mars rover.
     highlight: WIP
 
   - title: Kernel Learning
     url: gaussian-process-active-learning
-    desc: Utilizing machine learning to improve planetary exploration efficacy.
+    desc: Utilizing gaussian processes for planetary exploration.
     highlight: WIP
 
   - title: Alakai Trail Directory
