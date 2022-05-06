@@ -58,6 +58,12 @@ In the project, I led the development of the **motion planning and steering of t
   <i>Navigation through recognizition of untraversable terrain.</i>
 </div>
 
+<br> <br>
+<img src="https://i.ibb.co/bXTp7LJ/cool.gif" width="700">
+<div align="center">
+  <i>Mapping, planning, and ARUCO detection integrated onboard rover.</i>
+</div>
+
 # GPS Waypoint / ARUCO Tag Detection
 The GPS waypoint navigation module is another one of my contributions. The waypoint module acts as an **interface to send GPS coordinate goals to the navigation stack**. The module takes in a goal latitude and longitude value and reads the current latitude and longitude to compute a vector from the rover's coordinate to the goal coordinate. In the competition, this node is necessary to send the goal GPS points to our autonomous navigation stack to be fulfilled by move_base!
 
