@@ -1,10 +1,11 @@
 title: Ashten Akemoto
 author: Ashten Akemoto
 url: https://ashtencodes.github.io/ # root address of the site
-description: > # description of the site (multiple lines allowed)
-  Hello! I am a second-year computer engineering student at the University of Hawaii at Manoa.\n
-  I develop autonomous robotic systems for space exploration applications. I currently lead research centering around cooperative robotics and multi-agent systems for planetary exploration and mobility. In the future, I hope to explore opportunities in autonomous robotics for global sustainability and clean energy.\n
-
+description: | # description of the site (multiple lines allowed)
+  Hello! I am a second-year computer engineering student at the University of Hawaii at Manoa.
+  
+  I develop autonomous robotic systems for space exploration applications. I currently lead research centering around cooperative robotics and multi-agent systems for planetary exploration and mobility. In the future, I hope to explore opportunities in autonomous robotics for global sustainability and clean energy.
+  
   With strong backgrounds in software engineering, project management, and entrepreneurship, my larger goals are to bring people and ideas together to develop technologies that help to create a happier and more sustainable world.
 
 permalink: /:slug
