@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About
+title: Resume
 ---
 
-About Me!
+Resume
